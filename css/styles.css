@@ -5,6 +5,22 @@ nav li {
   margin: 10px;
 }
 
+.header {
+  width: 50%;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.header img {
+  border-radius: 10px;
+}
+
+.header-text {
+  padding-left: 10px;
+  position: relative;
+  display: inline-block;
+}
+
 .about-header {
   padding-top: 20px;
 }
