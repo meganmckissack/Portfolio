@@ -1,3 +1,13 @@
+nav li {
+  list-style: none;
+  display: inline;
+  padding: 10px;
+  margin: 10px;
+}
+
+.about-header {
+  padding-top: 20px;
+}
 .about-header img {
   width: 25%;
   height: auto;
