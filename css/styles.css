@@ -67,3 +67,24 @@ nav li {
 .collab {
   background-color: rgba(48, 129, 48, 0.2);
 }
+
+.project-headline {
+  text-align: center;
+  padding: 20px;
+}
+
+.project-container {
+  width: 60%;
+  margin: auto;
+}
+
+.project-list {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+
+.project-container::after {
+  display: table;
+  clear: both;
+}
