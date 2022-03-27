@@ -16,6 +16,10 @@ _Frontend Development Portfolio site showing work made as an Epicodus student_
 - _$ git clone [This repository](https://github.com/meganmckissack/Portfolio)_
 - _Open files in your favorite text editor or IDE_
 
+## Hosted Site
+
+[You can see the site here](https://meganmckissack.github.io/Portfolio/)
+
 ## Known Bugs
 
 - _None that I'm aware of at this time beside that the site might not be fully responsive_
