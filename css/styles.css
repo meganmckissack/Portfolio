@@ -63,3 +63,7 @@ nav li {
 .about-list-items {
   padding-left: 35%;
 }
+
+.collab {
+  background-color: rgba(48, 129, 48, 0.2);
+}
